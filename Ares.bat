@@ -21,7 +21,7 @@ echo                         Passwordlist Generator (5)════════�
 echo                                        ValoBatch (7)═══════╣
 echo                                                            ║
 
-set /p inputMenu=%BS%                                                           ╚═══⋙  
+set /p inputMenu=%BS%                                                           ╚═══^>  
 cd "C:\Users\Admin\Desktop\Programmieren\BATCH\Multitool\files"
 if /I %inputMenu% EQU exit exit
 if /I %inputMenu% EQU Exit exit
@@ -79,10 +79,10 @@ echo           │    - ebola man    │ (5) Passwordlist Generator ║ Opens a 
 echo           │    - YouTube ig   │                            ║ [Useful for (3) and (4)]                       │
 echo           │                   │----------------------------║------------------------------------------------│
 echo           │-------------------│  (6) Wifi Password Grabber ║ Opens a Troll IP Grabber that sends all of the │
-echo           │   thnx Notepad++  │                            ║ Users Wifi Passwords to "C:\Windows\Temp\"     │
+echo           │                   │                            ║ Users Wifi Passwords to "C:\Windows\Temp\"     │
+echo           │   thnx Notepad++  │----------------------------║------------------------------------------------│
+echo           │                   │              (7) ValoBatch ║ A Valorant Troll because CS ^> Valorant         │
 echo           └───────────────────┴────────────────────────────║────────────────────────────────────────────────┘
-echo                                              (7) ValoBatch ║ A Valorant Troll because CS > Valorant
-echo                                                            ║
 echo                                                            ║
 echo                                                ╔═══════════╩═══════════╗
 echo                                                ║ Press any key to exit ║
