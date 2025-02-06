@@ -18,7 +18,7 @@ echo                                                            ║
 echo                                       Auto Clicker (1)═════╬═════(2) Wifi Password Grabber
 echo                                   SMB Bruteforce (3)═══════╬═══════(4) Wifi Bruteforce
 echo                         Passwordlist Generator (5)═════════╬═════════(6) Password Troll Hack
-echo                                        ValoBatch (7)═══════╣
+echo                                        ValoBatch (7)═══════╬═══════(8) Higher or Lower Game
 echo                                                            ║
 
 set /p inputMenu=%BS%                                                           ╚═══^>  
@@ -50,6 +50,9 @@ if /I %inputMenu% EQU 5 (
 )
 if /I %inputMenu% EQU 6 start trollhack.bat
 if /I %inputMenu% EQU 7 start valo.bat
+if /I %inputMenu% EQU 8 (
+    powershell -Command "Start-Process 'hol.exe' -Verb runAs"
+)
 cls
 goto :start
 
@@ -82,6 +85,8 @@ echo           │-------------------│  (6) Wifi Password Grabber ║ Opens a 
 echo           │                   │                            ║ Users Wifi Passwords to "C:\Windows\Temp\"     │
 echo           │   thnx Notepad++  │----------------------------║------------------------------------------------│
 echo           │                   │              (7) ValoBatch ║ A Valorant Troll because CS ^> Valorant         │
+echo           │    thx PyCharm    │────────────────────────────║────────────────────────────────────────────────│
+echo           │                   │  (8) Higher or Lower Game  ║ A selfmade Higher or Lower Card Game           │
 echo           └───────────────────┴────────────────────────────║────────────────────────────────────────────────┘
 echo                                                            ║
 echo                                                ╔═══════════╩═══════════╗
