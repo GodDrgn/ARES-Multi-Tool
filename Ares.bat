@@ -85,7 +85,7 @@ echo           │-------------------│  (6) Wifi Password Grabber ║ Opens a 
 echo           │                   │                            ║ Users Wifi Passwords to "C:\Windows\Temp\"     │
 echo           │   thnx Notepad++  │----------------------------║------------------------------------------------│
 echo           │                   │              (7) ValoBatch ║ A Valorant Troll because CS ^> Valorant         │
-echo           │    thx PyCharm    │────────────────────────────║────────────────────────────────────────────────│
+echo           │    thnx PyCharm   │────────────────────────────║────────────────────────────────────────────────│
 echo           │                   │  (8) Higher or Lower Game  ║ A selfmade Higher or Lower Card Game           │
 echo           └───────────────────┴────────────────────────────║────────────────────────────────────────────────┘
 echo                                                            ║
